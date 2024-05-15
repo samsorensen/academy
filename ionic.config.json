@@ -1,0 +1,7 @@
+{
+  "name": "academyTabs",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}
